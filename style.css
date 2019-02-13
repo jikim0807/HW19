@@ -254,3 +254,9 @@
         color:black;
       }
     }
+
+
+.container carousel {
+    width: 800px;
+    height: 500px;
+}
